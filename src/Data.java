@@ -66,6 +66,9 @@ public class Data {
 		adjectives.add("Raw");
 		adjectives.add("Fermented");
 		adjectives.add("Tender");
+		adjectives.add("Smoked");
+		adjectives.add("Soft");
+		adjectives.add("Baked");
 
 		mainDish.add("Spaghetti");
 		mainDish.add("Ravioli");
@@ -105,6 +108,7 @@ public class Data {
 		mainDish.add("Beef");
 		mainDish.add("Pork");
 		mainDish.add("Tuna");
+		mainDish.add("Pizza");
 
 		accessory.add("Curry");
 		accessory.add("Oregano");
@@ -117,7 +121,6 @@ public class Data {
 		accessory.add("Pineapple");
 		accessory.add("Candy");
 		accessory.add("Onion Rings");
-		accessory.add("Weed Cookie");
 		accessory.add("Fortune Cookies");
 		accessory.add("Pretzels");
 		accessory.add("Cupcakes");
