@@ -69,6 +69,9 @@ public class Data {
 		adjectives.add("Smoked");
 		adjectives.add("Soft");
 		adjectives.add("Baked");
+		adjectives.add("Spanish");
+		adjectives.add("Fresh");
+		adjectives.add("Virgin");
 
 		mainDish.add("Spaghetti");
 		mainDish.add("Ravioli");
@@ -109,6 +112,10 @@ public class Data {
 		mainDish.add("Pork");
 		mainDish.add("Tuna");
 		mainDish.add("Pizza");
+		mainDish.add("Spareribs");
+		mainDish.add("Prawns");
+		mainDish.add("Steak");
+		mainDish.add("Pancakes");
 
 		accessory.add("Curry");
 		accessory.add("Oregano");
@@ -137,6 +144,14 @@ public class Data {
 		accessory.add("Chips");
 		accessory.add("Camembert");
 		accessory.add("Sauce");
+		accessory.add("Dill");
+		accessory.add("Lemons");
+		accessory.add("Oranges");
+		accessory.add("Vegetable Oil");
+		accessory.add("Omelet");
+		accessory.add("Mozzarella");
+		accessory.add("Shellfish");
+		accessory.add("Tiramisu");
 
 		System.out.println(adjectives.size() * mainDish.size() * accessory.size() * accessory.size() * adjectives.size()
 				* adjectives.size());
